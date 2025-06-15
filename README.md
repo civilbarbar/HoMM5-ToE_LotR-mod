@@ -10,6 +10,10 @@ Working on a [Heroes of Might and Magic 5 - Tribes of the East] Lord of the Ring
 ## Implementation:
 This project is currently in Phase 1: Building a detailed map of Middle-earth. Work in Progress.  
   
+### Latest Screenshot:
+
+![alt text](https://github.com/civilbarbar/HoMM5-ToE_LotR-mod/blob/main/Phase1/screenshots/2025-05-11_lonely-mountain-01.png?raw=true "Latest in-game screenshot of Middle-earth map at Lonely Mountain")
+
 TODO:  
 
 * ~~Build the coastline (i.e. add the big sea west of Middle-earth)~~ DONE!
@@ -39,9 +43,7 @@ TODO:
 * ...
 * TBT
 
+  
 ### Developer Notes:
 * 2025-06-15: Since the [HoMM5-ToE] mod "MMH5.5" looks like a popular (unofficial) expansion that should fix many balancing issues, I plan to include it for this mod. Link to "MMH5.5": https://www.moddb.com/mods/might-magic-heroes-55
 
-### Latest Screenshot:
-
-![alt text](https://github.com/civilbarbar/HoMM5-ToE_LotR-mod/blob/main/Phase1/screenshots/2025-05-11_lonely-mountain-01.png?raw=true "Latest in-game screenshot of Middle-earth map at Lonely Mountain")
