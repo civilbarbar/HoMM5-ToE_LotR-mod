@@ -43,7 +43,7 @@ TODO:
 * Upgrade main heroes to MMH5.5
 * Polish the Mountains
 * ...
-* TBT
+* TBD
 
   
 ### Developer Notes:
