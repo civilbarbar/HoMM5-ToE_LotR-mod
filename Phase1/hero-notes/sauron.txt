@@ -1,0 +1,6 @@
+    Name: Sauron, the Dark Lord
+    Character: He will look like the Sovereign
+    Class: Demon Lord -> Sorcerer
+    Specialization: Fanatic
+    Main secondary skill: Basic Gating
+    Hero default attack: Ranged
