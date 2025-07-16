@@ -39,7 +39,8 @@ TODO:
 * ~~Lay the paths around Mt. Doom~~ DONE!
 * ~~Build the White Mountains' eastmost range~~ DONE!
 * ~~Enhance the Mountains around Mordor~~ DONE!
-* Upgrade map to MMH5.5
+* ~~Upgrade the map to MMH5.5~~
+* Customize the main heroes
 * Upgrade main heroes to MMH5.5
 * Polish the Mountains
 * ...
