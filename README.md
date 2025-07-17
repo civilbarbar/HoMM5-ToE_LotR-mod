@@ -49,6 +49,7 @@ This project is currently in Phase 2.2: Customizing the main heroes. Work in Pro
 * ~~25.1 Sauron mark1~~ DONE!
 * (26.) MMH5.5 brought new high-res textures - I shall rearrange a few because some of them look quite different now.
 * (27.) Polish the Mountains
+* (?) Add map image to map description.
 * ...
 * TBD
 
