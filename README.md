@@ -1,20 +1,24 @@
 # HoMM5-ToE_LotR-mod Readme
-Working on a [Heroes of Might and Magic 5 - Tribes of the East] Lord of the Rings Mod.
+Working on a [Heroes of Might and Magic 5 - Tribes of the East] / [Might & Magic Heroes 5.5] Lord of the Rings Mod.
 
-* Project type: Pet Project - Modifying an existing PC game
+* Project type: Modifying an existing PC game (Pet Project).
+
 ## Project goals:
 * Phase 1: Building a detailed map of Middle-earth to play on (using the Map Editor provided by the Game Developers).
+* Phase 1.1: Building the map up to the point where I start work on Phase 2. =DONE!
+* Phase 1.2: Picking specific regions to continue on while proceeding with Phase 1 and/or Phase 2(.2).
 
 * Phase 2: Modifying the Game's Visuals and part of it's Mechanics to fit a Lord of the Rings based Setting.
+* Phase 2.1: Upgrading to [MMH5.5] (unofficial expansion mod for [HoMM5-ToE] - Link in Developer Note 2025-06-15 at the bottom of this Readme): From now on this mod project builds on [MMH5.5].
+* Phase 2.2: Customizing the main heroes (using [MMH5.5] skill tree/wheel, custom texts and hero portraits). NB: From this point on I will probably start to switch between working on Phase 1 and Phase 2 goals, they are connected.
 
 ## Implementation:
-This project is currently in Phase 1: Building a detailed map of Middle-earth. Work in Progress.  
+This project is currently in Phase 2.2: Customizing the main heroes. Work in Progress.
   
-### Latest Screenshot:
+### Current Screenshot:
+![alt text](https://github.com/civilbarbar/HoMM5-ToE_LotR-mod/blob/main/Phase1/screenshots/2025-05-11_lonely-mountain-01.png?raw=true "In-game screenshot of Middle-earth map at Lonely Mountain")
 
-![alt text](https://github.com/civilbarbar/HoMM5-ToE_LotR-mod/blob/main/Phase1/screenshots/2025-05-11_lonely-mountain-01.png?raw=true "Latest in-game screenshot of Middle-earth map at Lonely Mountain")
-
-TODO:  
+#### TODO:  
 
 * ~~Build the coastline (i.e. add the big sea west of Middle-earth)~~ DONE!
 * ~~Add first few rivers~~ DONE!
@@ -39,10 +43,12 @@ TODO:
 * ~~Lay the paths around Mt. Doom~~ DONE!
 * ~~Build the White Mountains' eastmost range~~ DONE!
 * ~~Enhance the Mountains around Mordor~~ DONE!
-* ~~Upgrade the map to MMH5.5~~
-* Customize the main heroes
-* Upgrade main heroes to MMH5.5
-* Polish the Mountains
+* ~~24. Upgrade the map to MMH5.5~~ DONE!
+* ~~Upgrade main heroes to MMH5.5~~ <- part of 25. (see line below)
+* 25. Customize the main heroes <-This is where the modding and therefore Phase 2 started.
+* ~~25.1 Sauron mark1~~ DONE!
+* (26.) MMH5.5 brought new high-res textures - I shall rearrange a few because some of them look quite different now.
+* (27.) Polish the Mountains
 * ...
 * TBD
 
