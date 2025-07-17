@@ -47,11 +47,13 @@ This project is currently in Phase 2.2: Customizing the main heroes. Work in Pro
 * ~~Upgrade main heroes to MMH5.5~~ <- part of 25. (see line below)
 * 25. Customize the main heroes <-This is where the modding and therefore Phase 2 started.
 * ~~25.1 Sauron mark1~~ DONE!
+* 25.1.1 Finetune animations and fix hero icon to improve on Sauron mark1 <<====(IN DEVELOPMENT)
 * (26.) MMH5.5 brought new high-res textures - I shall rearrange a few because some of them look quite different now.
 * (27.) Polish the Mountains
-* (?) Add map image to map description.
 * ...
 * TBD
+
+* ~~Add map thumbnail.~~ <-postponed because attempts made the game crash.
 
   
 ### Developer Notes:
