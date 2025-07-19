@@ -1,0 +1,19 @@
+    Name: Gollum
+    Character: Hornloser grauer dünner kleiner Horned Demon
+    Class: Dungeon -> Trickster
+    Specialization: Rusher
+    Skills: Luck + Basic Dark Magic
+    Hero default attack: melee
+	
+	C:\GOG Games\Heroes of Might and Magic V - Tribes of the East\data\texts\Text\Visibility_Types\Units.txt
+	
+	Textures\Icons\Heroes\Dungeon
+	
+	Textures\Icons\Heroes\Dungeon\Dungeon_Gollum_128x128.tga
+	
+	
+DESC:
+Gollum, also known as Sméagol, was a creature (originally a Stoorish Hobbit) who bore the One Ring. He lived in the Misty Mountains for most of his life.
+In July T.A. 2941, during the Quest of Erebor, Bilbo Baggins stumbled upon Gollum's lake and found the Ring. Gollum had lost the Ring in the network of caves leading to the lake, though in fact it is more proper to say that the Ring abandoned Gollum, for it was known to have a will of its own. As Gandalf said later, the Necromancer was becoming more powerful, and it was a good time for the Ring to change hands and get back to Sauron.
+Even though he was furious about his loss Gollum stayed in the Mountains since he was yet too afraid to leave his shelter. Gollum was disgusted by the empty night, nasty furtive eating and resentful remembering. He hated darkness, light and the Ring most of all, but his addiction to it was so great that he overcame his hatred and fear of the light and the Orcs.
+About two years after losing the Ring he is now finally ready and driven by a wild desire to reclaim "his precious" for himself.
