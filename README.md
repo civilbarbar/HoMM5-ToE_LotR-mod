@@ -4,12 +4,12 @@ Working on a [Heroes of Might and Magic 5 - Tribes of the East] / [Might & Magic
 * Project type: Modifying an existing PC game (Pet Project).
 
 ## Project goals:
-####* Phase 1: Building a detailed map of Middle-earth to play on (using the Map Editor provided by the Game Developers).
+#### * Phase 1: Building a detailed map of Middle-earth to play on (using the Map Editor provided by the Game Developers).
 
 * Phase 1.1: Building the map up to the point where I start work on Phase 2. =DONE!
 * Phase 1.2: Picking specific regions to continue on while proceeding with Phase 1 and/or Phase 2(.2).
 
-####* Phase 2: Modifying the Game's Visuals and part of it's Mechanics to fit a Lord of the Rings based Setting.
+#### * Phase 2: Modifying the Game's Visuals and part of it's Mechanics to fit a Lord of the Rings based Setting.
 
 * Phase 2.1: Upgrading to [MMH5.5](unofficial expansion mod for [HoMM5-ToE] - Link in Developer Note 2025-06-15 at the bottom of this Readme): From now on this mod project builds on [MMH5.5]. =DONE!
 * Phase 2.2: Customizing the main heroes (using [MMH5.5] skill tree/wheel, custom texts and hero portraits). NB: From this point on I will probably start to switch between working on Phase 1 and Phase 2 goals, they are connected.
