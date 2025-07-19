@@ -1,9 +1,10 @@
     Name: Sauron, the Dark Lord
     Character: He will look like the Sovereign
     Class: Demon Lord -> Sorcerer
-    Specialization: Fanatic
-    Main secondary skill: Basic Gating
+    Specialization: Fanatic -> rename to "Ruthless Commander"
+    Skills: Bloodrage, Gating and AdvNecromancy+BansheeScream
     Hero default attack: Ranged
+	BasicStats: 0/0/3/2
 	
 	C:\GOG Games\Heroes of Might and Magic V - Tribes of the East\data\texts\Text\Visibility_Types\Units.txt
 	
