@@ -4,7 +4,7 @@
     Specialization: Evasive a.k.a. Shadow Dancer -> rename to "Shadow Lurker" (thx Heldmut:)
     Skills: AdvLogistics+Pathfinding and AdvLuck
     Hero default attack: melee
-	BasicStats: 2/0/2/1
+	BasicStats: 2/0/1/2
 	
 	C:\GOG Games\Heroes of Might and Magic V - Tribes of the East\data\texts\Text\Visibility_Types\Units.txt
 	
