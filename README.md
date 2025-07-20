@@ -52,7 +52,7 @@ This project is currently in Phase 2.2: Customizing the main heroes. Work in Pro
 * ~~25.1.1 Finetune animations and fix hero icon to improve on Sauron mark1~~ =DONE!
 * ~~25.1.2 Sauron mark2~~ =DONE!
 * ~~25.2 Gollum mark1~~ =DONE!
-* 25.3 Gandalf mark 1 <<====(IN DEVELOPMENT)
+* ~~25.3 Gandalf mark1~~ =DONE!
 * 25.4 Saruman mark 1 <<====(IN DEVELOPMENT)
 
 * (26.) MMH5.5 brought new high-res textures - I shall rearrange a few terrain textures because some of them look quite different now

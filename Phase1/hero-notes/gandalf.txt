@@ -1,0 +1,38 @@
+    Name: Gandalf the Grey
+    Character: He will look like a grey version of Arantir
+    Class: Fortress -> Flame Keeper
+    Specialization: Flame Wielder -> rename to "Servant of the Secret Fire"
+    Skills: AdvEnlightment, Scholar, Destructive Magic and Master of Fire
+    Hero default attack: Ranged
+	BasicStats: 0/0/2/4
+	
+	C:\GOG Games\Heroes of Might and Magic V - Tribes of the East\data\texts\Text\Visibility_Types\Units.txt
+	
+	Textures\Icons\Heroes\Fortress
+	
+	Textures\Icons\Heroes\Fortress\gandalf_128x128.tga
+	
+	Gandalf the Grey referred to both the Secret Fire and the flame of Anor while facing a Balrog on the Bridge of Khazad-dûm, saying "I am a servant of the Secret Fire, wielder of the flame of Anor."
+	
+Starting Units:
+Shieldguard 5
+skirmisher 2
+battlerager 3
+rune priest 1 
+thane 1
+mountain guard 1 (Thorin)
+stalker 1 (Bilbo)
+Ballista + First Aid Tent
+
+Artifacts:
+Boots + Lion's Mane Cape + Dragon Eye Ring + Lion Necklace
+
+Spells:
+Fireball + Regeneration!
+	
+DESC:
+One of the most powerful Wizards in all Middle-earth, Gandalf the Grey joins the quest to reclaim the Dwarf Kingdom of Erebor and the great treasure that lies within its stone halls from a fire-breating dragon, Smaug the Terrible.
+Along the way, Gandalf finds evidence that an ancient evil may have found its way back into the world. So once the dwarven dwellings are secured he will have to make a journey that will take him into the darkest corners of Middle-earth.
+
+SPEC NAME:
+Class: Flamekeeper<br>Specialization: Servant of the Secret Fire<br><br><body_bright>Effective Spellpower of the hero is increased when casting Fireball or Empowered Fireball. The increase is equal to hero level/3. The Mage Guild also summons Fire Elementals instead of Air Elementals, but not if the hero wasn't present on the map on day one or hired from a tavern.<br><color_default>Starts with Advanced Enlightenment, Scholar, Basic Destructive Magic and Master of Fire.
