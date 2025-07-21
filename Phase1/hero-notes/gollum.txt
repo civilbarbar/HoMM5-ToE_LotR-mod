@@ -12,6 +12,11 @@
 	
 	Textures\Icons\Heroes\Dungeon\Dungeon_Gollum_128x128.tga
 	
+Artifacts:
+Boots
+
+Spells:
+Teleport!
 	
 DESC:
 Gollum, also known as Sméagol, was a creature (originally a Stoorish Hobbit) who bore the One Ring. He lived in the Misty Mountains for most of his life.

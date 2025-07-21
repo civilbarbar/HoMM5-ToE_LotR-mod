@@ -12,7 +12,12 @@
 	
 	Textures\Icons\Heroes\Inferno\sauron_128x128.tga
 	
-	
+Artifacts:
+Boots
+
+Spells:
+Decay a.k.a. Plague!
+
 DESC:
 Sauron was a highly gifted Maia, originally an apprentice of Aulë, who became skilled at crafting and making. Coveting the power through which he would coordinate all things according to his own will, he joined with Morgoth and became his most trusted lieutenant.
 After the downfall of Morgoth, Sauron continually strove to conquer Middle-earth throughout the Second and Third Ages. In the Second Age, under the guise of Annatar, he deceived the Elves of Eregion, who under his guidance had created the Rings of Power, whilst he secretly forged the One Ring in Mount Doom. Thus Sauron became "the Lord of the Rings". Failing to corrupt the Elves, he assaulted the Westlands, beginning a period called the Dark Years, the first time he became known as the Dark Lord. The arrogant Númenóreans, contesting their rule on Middle-earth, challenged him, and Sauron accepted to be brought to Númenor as a captive; however his influence corrupted the Númenóreans further - leading to the Downfall of Númenor. His spirit escaped, as did Elendil and his sons, founding the Realms in Exile of Arnor and Gondor. Elves and the Dúnedain, formed the Last Alliance and, in S.A. 3441, Elendil and Elven High King Gil-galad died fighting Sauron. Following Sauron's defeat, Elendil's son, Isildur, severed his Ringed finger and took the One Ring for himself.
