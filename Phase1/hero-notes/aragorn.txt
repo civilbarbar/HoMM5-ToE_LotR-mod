@@ -1,26 +1,28 @@
-    Name: Saruman the White Hand
-    Character: He will look like a white version of Arantir
-    Class: Academy -> Wizard
-    Specialization: Mindreaver a.k.a. Hypnotist (CAUTION: Inferno Version I found has only "The Confusion spell has an additional effect of decreasing target's mana on one point per every hero level." (without +Spellpower) -> rename to "Skilled Deceiver"
-    Skills: Blood Rage, Dark Magic, Master of Mind, Destructive Magic and Master of Storms
-    Hero default attack: Ranged
-	BasicStats: 0/0/2/3
+    Name: Aragorn, Isildur's Heir
+    Character: He will look like Duncan.
+    Class: Haven -> Knight
+    Specialization: Explorer -> rename to "Ranger of the North"
+    Skills: Logistics, Pathfinding, Defense, Vitality and Leadership
+    Hero default attack: Melee
+	BasicStats: 1/2/1/2
 	
 	C:\GOG Games\Heroes of Might and Magic V - Tribes of the East\data\texts\Text\Visibility_Types\Units.txt
 	
-	Textures\Icons\Heroes\Academy
+	Textures\Icons\Heroes\Haven
 	
-	Textures\Icons\Heroes\Academy\saruman_128x128.tga
-		
+	Textures\Icons\Heroes\Haven\aragorn_128x128.tga
+	
+	
 Starting Units:
-
-AmmoCart
+Bear Rider 1 (Gimli)
+Master Hunter 1 (Legolas)
+Ghost 99 (Oathbreakers)
 
 Artifacts:
 Boots
 
 Spells:
-Confusion, Slow, Lightning Bolt, Fire Trap
+Cleansing, Endurance, + Divine Strength!
 	
 DESC:
 One of the most powerful Wizards in all Middle-earth, Gandalf the Grey joins the quest to reclaim the Dwarf Kingdom of Erebor and the great treasure that lies within its stone halls from a fire-breating dragon, Smaug the Terrible.

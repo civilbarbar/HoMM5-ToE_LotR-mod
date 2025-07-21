@@ -1,26 +1,36 @@
-    Name: Saruman the White Hand
-    Character: He will look like a white version of Arantir
-    Class: Academy -> Wizard
-    Specialization: Mindreaver a.k.a. Hypnotist (CAUTION: Inferno Version I found has only "The Confusion spell has an additional effect of decreasing target's mana on one point per every hero level." (without +Spellpower) -> rename to "Skilled Deceiver"
-    Skills: Blood Rage, Dark Magic, Master of Mind, Destructive Magic and Master of Storms
-    Hero default attack: Ranged
+    Name: Lady Galadriel
+    Character: She will look like a white version of the female sylvan hero char.
+    Class: Sylvan -> Druid
+    
+	~~
+	Version A:
+	Specialization: Sacred Hammer/Hammer of Elrath/Deceiver -> rename to "Light of Valinor"
+    Skills: Adv Light Magic, Master of Blessings, Searing Light and Basic Enlightenment.
+    //
+	Version B (unlikely because Finnbard is planned to be a water mage & Nenya, Ring of Water might become an artifact!) :
+	Specialization: Chosen of Shalassa (Water Elementals) -> rename to "Keeper of Nenya, Ring of Water"
+    Skills: Adv Summoning Magic, Master of Conjuration, Water Affinity and Basic Enlightenment.
+	~~
+	Hero default attack: Ranged
 	BasicStats: 0/0/2/3
 	
 	C:\GOG Games\Heroes of Might and Magic V - Tribes of the East\data\texts\Text\Visibility_Types\Units.txt
 	
-	Textures\Icons\Heroes\Academy
+	Textures\Icons\Heroes\Sylvan
 	
-	Textures\Icons\Heroes\Academy\saruman_128x128.tga
-		
+	Textures\Icons\Heroes\Sylvan\galadriel_128x128.tga
+	
+	
 Starting Units:
-
-AmmoCart
+Dryads 36
+Hunter 12
+Water Elementals 7
 
 Artifacts:
 Boots
 
 Spells:
-Confusion, Slow, Lightning Bolt, Fire Trap
+Version A: Blindness, Divine Strength + Cleansing!
 	
 DESC:
 One of the most powerful Wizards in all Middle-earth, Gandalf the Grey joins the quest to reclaim the Dwarf Kingdom of Erebor and the great treasure that lies within its stone halls from a fire-breating dragon, Smaug the Terrible.

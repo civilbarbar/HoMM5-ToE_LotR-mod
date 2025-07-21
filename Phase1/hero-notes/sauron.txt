@@ -2,7 +2,7 @@
     Character: He will look like the Sovereign
     Class: Demon Lord -> Sorcerer
     Specialization: Fanatic -> rename to "Ruthless Commander"
-    Skills: Bloodrage, Gating and AdvNecromancy+BansheeScream
+    Skills: Blood Rage, Gating, Necromancy, Dark Magic and Master of Curses (Suffering on normal hero attacks!).
     Hero default attack: Ranged
 	BasicStats: 0/0/3/2
 	
@@ -16,7 +16,7 @@ Artifacts:
 Boots
 
 Spells:
-Decay a.k.a. Plague!
+Suffering, weakness + reanimation!
 
 DESC:
 Sauron was a highly gifted Maia, originally an apprentice of Aulë, who became skilled at crafting and making. Coveting the power through which he would coordinate all things according to his own will, he joined with Morgoth and became his most trusted lieutenant.

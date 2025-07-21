@@ -1,26 +1,25 @@
-    Name: Saruman the White Hand
-    Character: He will look like a white version of Arantir
-    Class: Academy -> Wizard
-    Specialization: Mindreaver a.k.a. Hypnotist (CAUTION: Inferno Version I found has only "The Confusion spell has an additional effect of decreasing target's mana on one point per every hero level." (without +Spellpower) -> rename to "Skilled Deceiver"
-    Skills: Blood Rage, Dark Magic, Master of Mind, Destructive Magic and Master of Storms
+    Name: Witch-king of Angmar
+    Character: He will look like the hooded Necromancer hero / or altenatively like a black Agrael (riding on Lizard)
+    Class: Necropolis -> Nethermage / Death Knight or Witch (from Stronghold - same skills as Nethermage)
+    Specialization: Witch King (+Spellpower) / Harvester (Ghosts at start of combat) / Grim Reaper (+Wraiths) / Souldrinker (Suffering) / Dark Rider (Black Knights)
+    Skills: Blood Rage, Necromancy, Banshee Howl, Dark Magic and Master of Pain.
     Hero default attack: Ranged
-	BasicStats: 0/0/2/3
+	BasicStats: 1/0/2/2
 	
 	C:\GOG Games\Heroes of Might and Magic V - Tribes of the East\data\texts\Text\Visibility_Types\Units.txt
 	
-	Textures\Icons\Heroes\Academy
+	Textures\Icons\Heroes\Necropolis
 	
-	Textures\Icons\Heroes\Academy\saruman_128x128.tga
+	Textures\Icons\Heroes\Necropolis\witch-king_128x128.tga
 		
 Starting Units:
-
-AmmoCart
+Dark Knights 8 (the other Ring-Wraiths)
 
 Artifacts:
 Boots
 
 Spells:
-Confusion, Slow, Lightning Bolt, Fire Trap
+Decay a.k.a. Plague + Reanimation!
 	
 DESC:
 One of the most powerful Wizards in all Middle-earth, Gandalf the Grey joins the quest to reclaim the Dwarf Kingdom of Erebor and the great treasure that lies within its stone halls from a fire-breating dragon, Smaug the Terrible.
