@@ -1,7 +1,7 @@
     Name: Witch-king of Angmar
-    Character: He will look like the hooded Necromancer hero / or altenatively like a black Agrael (riding on Lizard)
-    Class: Necropolis -> Nethermage / Death Knight or Witch (from Stronghold - same skills as Nethermage)
-    Specialization: Witch King (+Spellpower) / Harvester (Ghosts at start of combat) / Grim Reaper (+Wraiths) / Souldrinker (Suffering) / Dark Rider (Black Knights)
+    Character: He will look like a black Agrael (riding on Lizard)
+    Class: Necropolis -> Nethermage
+    Specialization: Dark Rider (Black Knights) -> rename to "Lord of the Nazgûl"
     Skills: Blood Rage, Necromancy, Banshee Howl, Dark Magic and Master of Pain.
     Hero default attack: Ranged
 	BasicStats: 1/0/2/2
@@ -13,7 +13,11 @@
 	Textures\Icons\Heroes\Necropolis\witch-king_128x128.tga
 		
 Starting Units:
-Dark Knights 8 (the other Ring-Wraiths)
+~~Dark Knights 8 (the other Ring-Wraiths)~~ <- not with Dark Rider Spec!
+Warmonger
+Goblin
+Skeleton
+Ghost(Spectre)
 
 Artifacts:
 Boots
@@ -22,8 +26,9 @@ Spells:
 Decay a.k.a. Plague + Reanimation!
 	
 DESC:
-One of the most powerful Wizards in all Middle-earth, Gandalf the Grey joins the quest to reclaim the Dwarf Kingdom of Erebor and the great treasure that lies within its stone halls from a fire-breating dragon, Smaug the Terrible.
-Along the way, Gandalf finds evidence that an ancient evil may have found its way back into the world. So once the dwarven dwellings are secured he will have to make a journey that will take him into the darkest corners of Middle-earth.
+Some time after Sauron seized the Rings of Power in the Sack of Eregion, S.A. 1697 he gave nine of them to Mannish kings, sorcerers and other warriors. With the power of their rings, the Nine achieved glory and grew wealthy, but they eventually started hating life as they were slowly drawn under Sauron's dominion. In the end, they all became the dreadful Ringwraiths.
+
+The one later known as the Witch-king was a sorcerer, probably one of the unnamed three lords of Númenórean race, who accepted one of the Rings of Power. He first appeared in the histories as a Ringwraith in S.A. 2251. Being the most powerful of the Nazgûl, he became their chief and the most feared servant of his master Sauron. 
 
 SPEC NAME:
-Class: Flamekeeper<br>Specialization: Servant of the Secret Fire<br><br><body_bright>Effective Spellpower of the hero is increased when casting Fireball or Empowered Fireball. The increase is equal to hero level/3. The Mage Guild also summons Fire Elementals instead of Air Elementals, but not if the hero wasn't present on the map on day one or hired from a tavern.<br><color_default>Starts with Advanced Enlightenment, Scholar, Basic Destructive Magic and Master of Fire.
+Class: Nethermage<br>Specialization: Lord of the Nazgûl<br><br><body_bright>All mage guilds in owned Necropolis towns will summon Black Knights instead of Mummies and the hero will already have 10 Dragonblood Crystals at level 1 for the purpose of summoning Black Knights. This specialization only works if the hero is present on the map on day one and doesn't work if the hero is hired from a tavern.<br><color_default>Starts with Basic Blood Rage, Basic Necromancy, Banshee Howl, Basic Dark Magic and Master of Pain.

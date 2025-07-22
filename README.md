@@ -53,7 +53,8 @@ This project is currently in Phase 2.2: Customizing the main heroes. Work in Pro
 * ~~25.1.2 Sauron mark2~~ =DONE!
 * ~~25.2 Gollum mark1~~ =DONE!
 * ~~25.3 Gandalf mark1~~ =DONE!
-* 25.4 Saruman mark 1 <<====(IN DEVELOPMENT)
+* ~~25.4 Saruman mark1~~ =DONE!
+* ~~25.5 Witch-king mark1~~ =DONE!
 
 * (26.) MMH5.5 brought new high-res textures - I shall rearrange a few terrain textures because some of them look quite different now
 * (27.) Polish the Mountains
@@ -64,5 +65,6 @@ This project is currently in Phase 2.2: Customizing the main heroes. Work in Pro
 
   
 ### Developer Notes:
+* 2025-07-22: !NB: Skeleton and Geometry files can be copied by copying the corresponding section of the original model xdb to the new model xdb!
 * 2025-07-18: Horned Demon model and move animations could be a good first fit for Gollum.
 * 2025-06-15: Since the [HoMM5-ToE] mod "MMH5.5" looks like a popular (unofficial) expansion that should fix many balancing issues, I plan to include it for this mod. Link to "MMH5.5": https://www.moddb.com/mods/might-magic-heroes-55
