@@ -10,7 +10,7 @@
 	
 	Textures\Icons\Heroes\Academy
 	
-	Textures\Icons\Heroes\Academy\saruman_128x128.tga
+	Textures\Icons\Heroes\Academy\Academy_Saruman_128x128
 		
 Starting Units:
 
@@ -23,8 +23,9 @@ Spells:
 Confusion, Slow, Lightning Bolt, Fire Trap
 	
 DESC:
-One of the most powerful Wizards in all Middle-earth, Gandalf the Grey joins the quest to reclaim the Dwarf Kingdom of Erebor and the great treasure that lies within its stone halls from a fire-breating dragon, Smaug the Terrible.
-Along the way, Gandalf finds evidence that an ancient evil may have found its way back into the world. So once the dwarven dwellings are secured he will have to make a journey that will take him into the darkest corners of Middle-earth.
+Saruman the White was the first of the order of Wizards (or Istari) who came to Middle-earth as Emissaries of the Valar in the Third Age. For a time he was the chief of the Wizards, as well as the head of the White Council.
+
+However, through his appreciation of Sauron's innate strength, his envy of Gandalf and his overbearing hubris, the White Wizard fell into mimicry of the Dark Lord as his capable yet faithless servant, plotting to share in his power or to two-facedly seize the One Ring first. 
 
 SPEC NAME:
-Class: Flamekeeper<br>Specialization: Servant of the Secret Fire<br><br><body_bright>Effective Spellpower of the hero is increased when casting Fireball or Empowered Fireball. The increase is equal to hero level/3. The Mage Guild also summons Fire Elementals instead of Air Elementals, but not if the hero wasn't present on the map on day one or hired from a tavern.<br><color_default>Starts with Advanced Enlightenment, Scholar, Basic Destructive Magic and Master of Fire.
+Class: Wizard<br>Specialization: Skilled Deceiver<br><br><body_bright>The hero gains +1 Spellpower for every 7 levels and the Confusion spell has an additional effect of decreasing target's mana on one point per every hero level.<br><color_default>Starts with Basic Blood Rage, Basic Dark Magic, Master of Mind, Basic Destructive Magic and Master of Storms.
