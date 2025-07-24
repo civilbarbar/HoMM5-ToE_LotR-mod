@@ -4,6 +4,7 @@ Working on a [Heroes of Might and Magic 5 - Tribes of the East] / [Might & Magic
 * Project type: Modifying an existing PC game (Pet Project).
 
 ## Project goals:
+
 #### * Phase 1: Building a detailed map of Middle-earth to play on (using the Map Editor provided by the Game Developers).
 
 * Phase 1.1: Building the map up to the point where I start work on Phase 2. =DONE!
@@ -65,6 +66,7 @@ This project is currently in Phase 2.2: Customizing the main heroes. Work in Pro
 
   
 ### Developer Notes:
+* 2025-07-24: !!Caution: Having the current map's h5m-archive-file opened when closing the Map Editor can make you lose all changes!!
 * 2025-07-22: !NB: Skeleton and Geometry files can be copied by copying the corresponding section of the original model xdb to the new model xdb!
 * 2025-07-18: Horned Demon model and move animations could be a good first fit for Gollum.
 * 2025-06-15: Since the [HoMM5-ToE] mod "MMH5.5" looks like a popular (unofficial) expansion that should fix many balancing issues, I plan to include it for this mod. Link to "MMH5.5": https://www.moddb.com/mods/might-magic-heroes-55
